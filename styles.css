@@ -1,0 +1,41 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    background-color: #fff;
+    min-width: 320px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 50px 0;
+}
+
+a {
+    color: #111;
+}
+
+a:hover {
+    color: #555;
+}
+
+.footer navbar-white bg-primary {
+    margin-bottom: auto;
+    margin-top: 10px;
+}
+
+.carousel-caption {
+    text-shadow: 0 0 2px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption p {
+    font-size: 1.5rem;
+}
